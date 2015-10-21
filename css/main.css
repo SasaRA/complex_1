@@ -1,0 +1,28 @@
+body {
+    background-color: #FFFFFF;
+}
+#mainContainer {
+    position: absolute;
+    width: 500px;
+    height: 708px;
+    top: 0px;
+    left: 0px;
+}
+#bg {
+    position: absolute;
+    width: 500px;
+    height: 708px;
+    top: 0px;
+    left: 0px;
+    background: url("../images/tumblr_mm0w6oL4YZ1rfyiu4o1_500.jpg");
+    opacity: 0;
+}
+#logo {
+    position: absolute;
+    width: 766px;
+    height: 212px;
+    top: 690px;
+    left: -140px;
+    background: url("../images/complexlogo.png");
+    opacity: 0;
+}
